@@ -5,7 +5,6 @@ import './App.css'
 import Getcolor from './component/Getcolor'
 import Colorbox from './component/colorbox'
 import colorNames  from 'colornames'
-import colorbox from './component/colorbox'
 
 
 function App() {
