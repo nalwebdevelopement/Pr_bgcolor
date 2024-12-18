@@ -3,7 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import Getcolor from './component/Getcolor'
-import Colorbox from './component/colorbox'
+import Colorbox from './component/Colorbox'
 import colorNames  from 'colornames'
 
 
